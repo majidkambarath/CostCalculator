@@ -1,8 +1,11 @@
-# React + Vite
+# Cost Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Cost Calculator is web application built using React that allows users to calculate costs based on various inputs. It's designed to help users estimate expenses for different scenarios.
 
-Currently, two official plugins are available:
+## Features
+- Calculate costs based on user inputs.
+- Add and remove items to the calculation.
+- View a grand total of all items.
+- Edit item details, including name, price, quantity, and total.
+- Delete items from the calculation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
